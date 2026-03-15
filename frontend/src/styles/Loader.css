@@ -1,0 +1,8 @@
+.loader-main {
+    border: '1px solid black';
+    border-top: '1px solid white';
+    width: '35px';
+    height: '35px';
+    background-color: 'red';
+    border-radius: '50px'
+}
