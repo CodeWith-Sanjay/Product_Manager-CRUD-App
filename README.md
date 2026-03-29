@@ -1,39 +1,24 @@
-Product Manager CRUD App
+<div align="center">
 
-A full stack CRUD application to manage products. User can create, update, delete and view products.
+## 📦 Product Manager CRUD App
 
+CRUD application for managing products with API integration and Redux Toolkit.
 
-Frontend:
-React
-Redux Toolkit
-React Bootstrap
+</div>
 
+---
 
-Backend:
-Node.js
-Express.js
-MongoDB
-Mongoose
+### ✨ Features
+- Add, edit, and delete products
+- Manage product list
+- API integration
+- Redux Toolkit with asyncThunk
+- Responsive layout
 
+### 🛠 Tech Stack
+`React` `Redux Toolkit` `JavaScript` `Node.js` `Express.js`
 
-
-Features:
-Create product
-Update product
-Delete product
-View all products
-API integration with Redux asyncThunk
-
-
-
-Installation:
-git clone https://github.com/CodeWith-Sanjay/Product_Manager-CRUD-App.git
-
-cd backend
-npm install
-npm start
-
-cd frontend
+### 🚀 Run Locally
+```bash
 npm install
 npm run dev
-
